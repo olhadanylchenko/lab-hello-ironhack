@@ -1,0 +1,9 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: lightskyblue;
+}
+
+.wrapper {
+  width: 100vh;
+  /* background-image: url("../public/images/react-logo.svg"); */
+}
